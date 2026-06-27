@@ -18,5 +18,5 @@ Design a mobile app for LUNA, an eyewear boutique in Nepal, to help users browse
 ## Next steps
 - Define phase (problem statements, insights)
 - Ideation (HMW questions)
-- Wireframes 
+- Wireframes (low-fidelity designs)
 - Lo-fi prototype in Figma
